@@ -101,7 +101,7 @@ padding:0px;}
   background-color: #ff4957;
   height: 50px;
   width: 80px;
-  color: white;
+  color: blue;
   border-radius: 30px;
   font-weight: 700;
   font-size: 25px;
@@ -139,4 +139,4 @@ text-decoration: underline;
 }
 #doc {
 margin: 40px 0;
-}
+} 
