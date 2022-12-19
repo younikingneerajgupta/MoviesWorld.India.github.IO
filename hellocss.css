@@ -6,7 +6,7 @@ padding: 0;
 body{
 background: #f0f0f0;
 font: 14px/20px Arial, San-Serif;
-color: #555;
+color: green;
 margin: 0;
 }
 h1 {
@@ -38,13 +38,13 @@ height: auto;
 width: auto;
 }
 a {
-color: #fff;
+color: orange;
 text-decoration: none;
 font-weight: bold;
 }
 
 a:hover {
-color: #fff;
+color: dark green;
 text-decoration: underline;
 }
 header {
@@ -69,7 +69,7 @@ nav {
 display: inline-block;
 float: right;
 padding: 20px;
-color:purpel;
+color:green;
 }
 ul
 {
@@ -79,6 +79,7 @@ float: right;
 padding: 0px;
 pointer-events: none;
         cursor: default;
+text-align:right;
 }
 table
 {
@@ -114,9 +115,9 @@ font-size:40 px;
 }
 .div {
 display:block;
-background-color:sky blue;
+background-color:pink;
 margin:0px;
-color:pink-red;
+color:red;
 font-family:Verdana;
 }
 .button {
@@ -139,4 +140,4 @@ text-decoration: underline;
 }
 #doc {
 margin: 40px 0;
-} 
+}
